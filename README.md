@@ -53,9 +53,9 @@ The system enhances planning efficiency and ensures that tours are fully customi
 
 ### Developer Team:
 - **Lê Thị Yến Nhi** - Team Leader - Backend Developer
-- **Trương Thủy Trúc** - Team Member - Backend Developer
+- **Trương Thủy Trúc** - Team Member - Fontend Developer
 - **Đặng Thiêm Lộc** - Team Member - Fontend Developer
-- **Nguyễn Minh Trường Vũ** - Team Member - Fontend Developer
+- **Nguyễn Minh Trường Vũ** - Team Member - Backend Developer
 
 ---
 
